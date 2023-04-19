@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 // // RecipeToGrocery application; (citation: this ui class is modelled based on AccountNotRobust ui class)
 public class RecipeToGroceryConsoleApp {
-    private static final String JSON_STORE = "./data/recipes.json";
+    private static final String JSON_STORE = ".data/recipes.json";
     private JsonWriter jsonWriter;
     private JsonReader jsonReader;
     IngredientList shoppingList;
