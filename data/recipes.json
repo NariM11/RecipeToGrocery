@@ -1,0 +1,208 @@
+{"recipes": [
+    {
+        "directions": "boil eggs for 5 minutes",
+        "name": "boiled eggs",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 200,
+                "unit": "mg",
+                "name": "eggs"
+            },
+            {
+                "amount": 300,
+                "unit": "ml",
+                "name": "water"
+            },
+            {
+                "amount": 10,
+                "unit": "mg",
+                "name": "salt"
+            }
+        ]}
+    },
+    {
+        "directions": "add milk to cereal",
+        "name": "cereal with milk",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 300,
+                "unit": "mg",
+                "name": "cereal"
+            },
+            {
+                "amount": 200,
+                "unit": "ml",
+                "name": "milk"
+            }
+        ]}
+    },
+    {
+        "directions": "add cheese to bread and grill for 1-2 minutes",
+        "name": "grilled cheese sandwich",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 200,
+                "unit": "mg",
+                "name": "bread"
+            },
+            {
+                "amount": 100,
+                "unit": "mg",
+                "name": "cheese"
+            }
+        ]}
+    },
+    {
+        "directions": "\n1. test directions 1\n2. test directions 2",
+        "name": "test recipe 1",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 200,
+                "unit": "mg",
+                "name": "ingredient test 1"
+            },
+            {
+                "amount": 250,
+                "unit": "ml",
+                "name": "ingredient test 2"
+            }
+        ]}
+    },
+    {
+        "directions": "\n1. step 1\n2. step 2\n3. step 3",
+        "name": "test recipe 2",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 100,
+                "unit": "mg",
+                "name": "ingr 1"
+            },
+            {
+                "amount": 150,
+                "unit": "ml",
+                "name": "ing 2"
+            }
+        ]}
+    },
+    {
+        "directions": "5. 4. 3. 2. 1. milk\rflour\rsugar\r\r\r",
+        "name": "Dumplings",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 200,
+                "unit": "ml",
+                "name": "milk"
+            },
+            {
+                "amount": 400,
+                "unit": "mg",
+                "name": "flour"
+            },
+            {
+                "amount": 20,
+                "unit": "mg",
+                "name": "sugar"
+            }
+        ]}
+    },
+    {
+        "directions": "5. 4. 3. 2. 1. direction 1\rtest direction 2\r\r\r\r",
+        "name": "Recipe test 2",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 100,
+                "unit": "mg",
+                "name": "ingredient 1"
+            },
+            {
+                "amount": 500,
+                "unit": "mg",
+                "name": "ing 2"
+            },
+            {
+                "amount": 300,
+                "unit": "mg",
+                "name": "ing 3"
+            }
+        ]}
+    },
+    {
+        "directions": "1. direction 1\r2. direction 2\r3. \r4. \r5. \r",
+        "name": "recipe test 3",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 100,
+                "unit": "mg",
+                "name": "ing 1"
+            },
+            {
+                "amount": 200,
+                "unit": "mg",
+                "name": "ingr 2"
+            }
+        ]}
+    },
+    {
+        "directions": "1. dir 1\r2. dir2 \r3. dir 3\r",
+        "name": "recipe test 4",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 200,
+                "unit": "mg",
+                "name": "ing 1"
+            },
+            {
+                "amount": 100,
+                "unit": "mg",
+                "name": "ing 2"
+            }
+        ]}
+    },
+    {
+        "directions": "1. dir 1\r2. dir 2\r3. dir 3\r",
+        "name": "Recipe test 5",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 100,
+                "unit": "mg",
+                "name": "ing 1"
+            },
+            {
+                "amount": 200,
+                "unit": "mg",
+                "name": "ing 2"
+            },
+            {
+                "amount": 300,
+                "unit": "mg",
+                "name": "ing 3"
+            }
+        ]}
+    },
+    {
+        "directions": "1. Mix eggs\r2. Put eggs on pan\r3. Wait\r4. Eggs ready\r",
+        "name": "Omelette",
+        "ingredients": {"ingredients": [
+            {
+                "amount": 200,
+                "unit": "mg",
+                "name": "Eggs"
+            },
+            {
+                "amount": 50,
+                "unit": "ml",
+                "name": "Milk"
+            },
+            {
+                "amount": 20,
+                "unit": "mg",
+                "name": "Sugar"
+            },
+            {
+                "amount": 20,
+                "unit": "mg",
+                "name": "Cheese"
+            }
+        ]}
+    }
+]}

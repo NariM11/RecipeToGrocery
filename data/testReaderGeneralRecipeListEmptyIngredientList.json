@@ -1,0 +1,29 @@
+{
+  "recipes": [
+    {
+      "name": "boiled eggs",
+      "ingredients":
+      {
+        "ingredients": []
+      },
+      "directions": "boil eggs for 5 minutes"
+    },
+    {
+      "name": "cereal with milk",
+      "ingredients":
+      {
+        "ingredients": []
+      },
+      "directions": "add milk to cereal"
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "ingredients":
+      {
+        "ingredients": []
+      },
+      "directions": "add cheese to bread and grill for 1-2 minutes"
+    }
+  ]
+}
+

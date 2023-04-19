@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "name": "boiled eggs",
+      "ingredients":
+        {
+          "ingredients": [
+            {
+              "name": "eggs",
+              "amount": 200,
+              "unit": "mg"
+            },
+            {
+              "name": "water",
+              "amount": 300,
+              "unit": "ml"
+            },
+            {
+              "name": "salt",
+              "amount": 10,
+              "unit": "mg"
+            }
+          ]
+        },
+      "directions": "boil eggs for 5 minutes"
+    },
+    {
+      "name": "cereal with milk",
+      "ingredients":
+        {
+          "ingredients": [
+            {
+              "name": "cereal",
+              "amount": 300,
+              "unit": "mg"
+            },
+            {
+              "name": "milk",
+              "amount": 200,
+              "unit": "ml"
+            }
+          ]
+        },
+      "directions": "add milk to cereal"
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "ingredients":
+        {
+          "ingredients": [
+            {
+              "name": "bread",
+              "amount": 200,
+              "unit": "mg"
+            },
+            {
+              "name": "cheese",
+              "amount": 100,
+              "unit": "mg"
+            }
+          ]
+        },
+      "directions": "add cheese to bread and grill for 1-2 minutes"
+    }
+  ]
+}
+
